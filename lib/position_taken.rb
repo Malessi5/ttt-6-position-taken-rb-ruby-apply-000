@@ -10,4 +10,4 @@ elsif board[index_number] == nil
   end
 end
 
-position_taken?
+position_taken?(board,index_number)
